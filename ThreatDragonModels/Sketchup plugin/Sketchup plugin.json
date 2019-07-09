@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Sketchup plugin",
+    "description": "A tool for sketchup. Designed to make creating custom materials easier. You can even export the selected entities within Sketchup to a destination file.",
+    "owner": "Galvin"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
